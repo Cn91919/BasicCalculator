@@ -1,0 +1,1 @@
+Very simple calculator with still a few bugs to iron out. Utilizing the java.swing catalog and the java.color.util I created a simple calculator app capable of division, addition, subtraction, multiplication, and decimals. Feel free to use but know that it can break. 
